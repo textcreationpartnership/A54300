@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perambulatory word to court, camp, city and country: or, An arrow shot at randome, to teach some, and to reach others, but to ruine none, save such as are resolved to ruine all to set up one</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54300</idno><idno type="EEBO-CITATION">99834976</idno>
+  <idno type="VID">39627</idno>
+  <idno type="EEBO-PROQUEST">2264183068</idno>
+  
+            <idno type="STC">Wing P1453</idno>
+            <idno type="STC">ESTC R207762</idno>
+            <idno type="PROQUEST">99834976</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834976e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1956:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perambulatory word to court, camp, city and country: or, An arrow shot at randome, to teach some, and to reach others, but to ruine none, save such as are resolved to ruine all to set up one</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.C. for L. Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In defence of the Good Old Cause.</note>
+                  <note>Annotation on Thomason copy: "May 4th"; "May 4".</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts), and the Henry E. Huntington Library and Art Gallery (Early English books, 1641-1700).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39627:1"/>
+            <p>A Perambulatory Word TO Court, Camp, City and Country: OR, AN ARROW Shot at randome, to teach some, and to reach others, but to ruine none, save such as are resolved to ruine all to set up one.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. C.</hi> for <hi>L. Chapman.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:39627:2"/>
+            <pb n="1" facs="tcp:39627:2"/>
+            <head>A perambulatory Word, to Court, Camp, City, <hi>&amp;c.</hi>
+            </head>
+            <p>THe fear of God (saith the Wiseman) is the beginning of wisdome: so that it may be thence inferred, that no project can be profitable or prosperous which crosseth Piety. Indeed the Sun of successe may as soon shine upon a wicked design as on a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood and sometimes sooner; yet it's <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eldome seen, but that such Sun-shine ends in shame: we may see something in our l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te Court-projects and practices; and we shall ere long we hope experience, that truth and plain-dealing is delivered, and freed from flattering, false, and feigned friends, whose crooked Counsels, and plausible per<g ref="char:EOLhyphen"/>sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sions, had almost chea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of our <hi>Good old Cause.</hi> But seeing it is a maxime both false and dangerou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to think it beneath a wise man to alter his opinion, let no man judge he goes backward in his word, who goes forward in his work: truth and sound judgement may at any time be fairly embra<g ref="char:EOLhyphen"/>ced in the exchange of falsehood: he changeth not for the wors<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who (upon mature deliberation) pitches upon what is no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely practicable, but piously publick and profitable.</p>
+            <p>But some who sit still in these shaking trying times, sooth themselves under a shadow of seeming safety, whilst (like a chippe in porridge) they live and die unprofitable, having (like <hi>Servilius</hi> in <hi>Rome</hi>) satisfied no side: whereas the true Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riot pawns the all of his private, to promote any little part of a publick import. In this sense, what may we not see and say▪ in and of those now newly return'd, and we hope true assertors of that Cause of God and their Countrey cru<g ref="char:EOLhyphen"/>cified, betwixt those two State-Thieves, Ambition and Ava<g ref="char:EOLhyphen"/>rice; wherein who would not be sharers with them in their wants and hazards, as otherwayes ready to reward their
+<pb n="2" facs="tcp:39627:3"/> worth, deserves to be disinherited of all they have and hold; being little better in practise or speculation, then was that Monster of Mankind <hi>Cesar Borgia,</hi> the Legend of whose life leaves him a most practicall Atheist; and I know not what he or they can have to make them more immortally miserable.</p>
+            <p>Now that I may draw nearer to what I intend to retrive, and what (for these five years last) we have lost, to wit, our Laws and Liberties, our Credit and Consciences; Let us take notice by the way of those Ecclesiasticall, Civil, and Military Apostates, who hitherto have thought to make themselves happy by making us miserable. Is not now their successe likely to prove suitable to their sin? and will they not be sooner de<g ref="char:EOLhyphen"/>feated then detected? how tottering stand the Thrones ere<g ref="char:EOLhyphen"/>cted by Treason or Usurpation? who can love or cherish the best remainders of such as by their Treacheries and Cruelties, have in this kind constrained us unto fear or hate? Let then such dependents perish with their principall, as in the com<g ref="char:EOLhyphen"/>passe of their contrivances, have no other point but what <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ends to the East of their own ends: Let such Canniballs to their Countrey loose their lustre before they end their lives, who call light darknesse, and darknesse light, and would de<g ref="char:EOLhyphen"/>stroy Bees to indulge Drones. Shall not Crowns, Scepters, painted Sepulchers, and parasiticall Pageantries perish, or ra<g ref="char:EOLhyphen"/>ther perpetuate the memory of their perfidious practises, whilst every passenger shall with a pointing-finger proclaim, There lies a filthy carkasse under a fair stone, or an <hi>English</hi> Monster under a Marble monument? To such, gay and glori<g ref="char:EOLhyphen"/>ous sepulchres are but marks of infamy, whilst every good man's tongue and pen's the true Patriot's Elegy and Epitaph: but the pain abated (which by sense of losse brought paleness into so many faces) we expect an interrupted circulation of the life-blood of our Liberties refluxing into its former cha<g ref="char:EOLhyphen"/>nel; so that surely now the condition of all our new obligati<g ref="char:EOLhyphen"/>ons runs not for selfish Soveraignty, but for the <hi>Good old Cause,</hi> and the executing of all our former Oathes and Engagements. It will now be expected (if ever) that all projects of profit and preferment, must rather be parted with then stoopt unto: We are not now for, but against any single Soveraigne, and we
+<pb n="3" facs="tcp:39627:3"/> doubt not ere long it will be inadvertency (even in their own understandings) for any drawling Cavaliers to contest further for their King against a Common-wealth. <hi>Summa cadent subi<g ref="char:EOLhyphen"/>to.</hi> Men highest raised are soonest ruin'd. It was the saying of <hi>Phocas</hi> (who of a sawcy Centurion was made Emperor) Fortune is easilier catcht then kept. They who are read in Divine and other Histories, may remember for what actions men were un-Christian'd in the one, and un-King'd in the o<g ref="char:EOLhyphen"/>ther. Let Countreys, <hi>&amp;c.</hi> consider the case 'twixt <hi>Saul</hi> and <hi>Samuel;</hi> and what became of King <hi>Canutus</hi> his <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>attering Courtiers. How thriv'd <hi>Herauld</hi> after his perjury in <hi>William</hi> the Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>querours Case at the battel of <hi>Hastings?</hi> K. <hi>Stephen,</hi> and our third <hi>Richard▪</hi> are sad examples in this sense: We read what politick <hi>Jeroboam</hi> got by Treason and Idolatry; his debauched son lost, and was rooted out with all his Family by force. Memorable is that story of Pope <hi>Paul</hi> the 4. who de<g ref="char:EOLhyphen"/>stroyed 150000 persons under pretext of Religion; but after his death, in detestation of his cruelty, his <hi>Statua</hi> was behead<g ref="char:EOLhyphen"/>ed and tost into <hi>Tyber</hi> Thus fell <hi>Sejeanus</hi> favourite to <hi>Tybe<g ref="char:EOLhyphen"/>rius,</hi> and by his ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iquities brought his son and daughter to a disgracefull death. Ambition and Usurpation are ever of a self▪ consuming nature: such are often more glorious in Hearse then History; and their memories rather want an Elegy, then their graves an Epitaph, or their names red Letters in times anniverse. O miserable and wretched estate of mankind, who cannot modell his deepest designes to secure himself or any of his curiously contrived cobwebs, against one coun<g ref="char:EOLhyphen"/>terblast of providence! For whilst Politicians think they s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>opt all gaps, and closed all chinks and crannies, they leave a whole dore open for Divine providence to enter in and un<g ref="char:EOLhyphen"/>do whatever they have done. Oh <hi>Jehu,</hi> thou wast a Razor with a sharp edge. Thus <hi>O. C.</hi> his two-edged sword cut fast for Gods glory, but faster for his own preferment; yet piece<g ref="char:EOLhyphen"/>ing out necessity and providence with his own carnall policy, like a greedy Gamester (having all in his own hand) he stole a needlesse Card to win the stake, and so lost all. Thus Pride and Ambition makes many shining lights prove smoaking fire<g ref="char:EOLhyphen"/>brands, that their posterity (<hi>Actaeon</hi>-like) may be eaten up
+<pb n="4" facs="tcp:39627:4"/> of their own hounds; and that Historians pens (being long kept fasting) may feed more mercilesly on their memories. Such Usurpers and perfidious betrayers of their Countrey, in the end want a Guard to guard them from their guard. For every King of hate, is a slave of fear: how then in vain do they seek to fence themselves without, whose greatest Ene<g ref="char:EOLhyphen"/>mies are within? how do such patch up sleep? Surely they seldome sleep soundly, who have blood for their bolster. A Traytor or a Tyr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts Conscience knows no night of rest; his fancy presents him with Masques, wherein onely fewds and suryes are Actour<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; his fears are propheticall, and virtue be<g ref="char:EOLhyphen"/>comes him worse then vice, because he counterfeits it onely for his own ends: a private hand, or publick insurrection, con<g ref="char:EOLhyphen"/>strain him to die intestate, who had his will all his life.</p>
+            <p>In this respect will not the people now understand their own power, and use it aright against our Goats of Lu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Tygers of Cru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Apes of Religion, and Basi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>isks of Envy, who have hitherto cancel'd our Laws and Liberties with the same swords which first defended, and we hope will now reinforce them from all infringement<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? But poor Souldiers, take heed of la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great a stress<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trust on those whose alliances and greatnesse put them upon a temptation of studying, ra<g ref="char:EOLhyphen"/>ther to make away their Creditours then to pay their debts; if they can Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ole you to new engagements in their old O<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h<g ref="char:EOLhyphen"/>office <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o keep you under, all your victories shall not excuse you, nor all the Lawrell wreaths on your head<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> keep <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur neck<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the Ax or hal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er: and m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch better is it for you so to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffer, then to behold, abet, or bear a part in the e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of your Countrey. In the interim, at how cheap a rate have th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se U<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rper▪ bought the swea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of your brows, and the price of your blood? how advantageous to them are our intolera<g ref="char:EOLhyphen"/>ble taxes? Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now will not Liberty and Settlement prove true doctrine to all for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Professours? It's probable that in <hi>Noahs</hi> Ark the Wolf agreed with the Lamb▪ and all creatures drow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed their antipathy, whilst all were in danger of drown<g ref="char:EOLhyphen"/>in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: so why may not all our severall opinions make up one Common-wealth, to oppose that one Common E<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emy ready to rush in to our ruine? Oh is it not high time for the Cow to
+<pb n="5" facs="tcp:39627:4"/> find her horns, when State-Caterpillers (not content to suck her milk) seek to eat out her bowels, thereby to deprive her of any being or abode in the land of the living? But provi<g ref="char:EOLhyphen"/>dence may please to make all Traytors and Time-servers <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s low in their attainments, as they have been high in their at<g ref="char:EOLhyphen"/>tempts; and the Grandees we hope will ere long see their er<g ref="char:EOLhyphen"/>rour &amp; desire no longer to hold that staffe, which they may per<g ref="char:EOLhyphen"/>ceive (if our faithfull inferiour Officers and Souldiers cleave close to what they have declared) they have taken by the wrong end. Our Camp-court creatures going about to bridle the Army, have given them just occasion to take the bit into their own teeth: thus the lingring Lyon rouz'd, appears lesse stubborn then valiant: herein the union of a few honest hearts is a Gordian knotable to make <hi>Alexanders</hi> sword turn edge.</p>
+            <p>Then let not <hi>England</hi> measure her Armyes loyalty by the successe of these last 5. yeares: None layes the unexpected rubbs in the Alley to the Bowlers fault, who takes good aim, though he misses the mark: It's known with whom they and we had to deal: As his life of late was a mirrour of perfidi<g ref="char:EOLhyphen"/>ous Hypocrisie (who by acting the white devils part did undo us) so was his death, of Gods patience: Indeed it is strange his Tragicall acts should have a Comicall end; or that he who sent so many to their graves in wrath, should go to his own in peace: but Gods justice on offenders goes not ever in one and the same path or pace; he is not pardon'd for his fault, who is for a while reprieved from the punishment. Sometimes the Guest in the Inne goes quietly to bed before the reckoning is paid. But now to prevent all despairings, let none truly pe<g ref="char:EOLhyphen"/>nitent fear a pardon from the good old Parliament. Let one<g ref="char:EOLhyphen"/>ly such as still oppose it, the purging of the Army, and the re<g ref="char:EOLhyphen"/>investing of our good old faithfull officers, fear what shall follow or befall them; so that if yet we dare be honest and resolute, freedome will fall upon its feet: we have been often foil'd, but we shall never be defeated: Down then with all selfish and irreconcileable designers; trample under foot their Mushroom honours, who to advance their personall power, and to paint the plumes of present oppressours, would rob us of the price and purchase of our bloody and dear-bought Li<g ref="char:EOLhyphen"/>berties:
+<pb facs="tcp:39627:5"/> They must now no longer act vice its part in virtues apparell; what they have hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herto held by force and fraud, shall shortly fall from its greatest height headlong, not meet<g ref="char:EOLhyphen"/>ing with any <hi>medium</hi> in its declination. Will then these Ea<g ref="char:EOLhyphen"/>gles of our new Court-aery (who have impt their wings with the plumes of oppression and perjury) soar over us all as earst they have done? No surely (under God) we have som<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Solons</hi> in our <hi>Athens,</hi> some <hi>Lycurguse</hi>'s in our <hi>Sparta,</hi> some <hi>Sisca</hi>'s or Christian <hi>Castriots</hi> in our Camp, who dare die in their Countreys defence.</p>
+            <p>Thus dear Friends and Countrey-men, you have his wa<g ref="char:EOLhyphen"/>king <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>estimony, who hath but a dreaming utterance. Remem<g ref="char:EOLhyphen"/>ber, Liberty is a beauty to be wish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, not a Blackmore to wash our hands of. But <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall now be silent as is the <hi>Nightingal</hi> when she hath hatcht her eggs, and say no more of the which so many had rather have then hear of. In the incerim, <hi>Ostridge</hi> feat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers fit not <hi>Wrens</hi> wings. For a farewell, let all private spirits repent that they have loved their carkasses better then their consciences, and the Court better then their Countrey. Farewell then you faithfull inferiour <hi>English</hi> Officers and Souldiers: it <hi>Julius Scaliger</hi> for rescuing the <hi>Roman</hi> Eagle in the Imperiall Standard, was Knighted by <hi>Maximilian</hi> the Emperour, and had his golden spurres put on with the Emper<g ref="char:EOLhyphen"/>ours own hands; what wreaths of honour and palms of vi<g ref="char:EOLhyphen"/>ctory will you wear, for rescuing your Countrey from such en<g ref="char:EOLhyphen"/>acted and intended enslavings, by such as have hitherto onely counterfeited vir<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that they might the more easily act vice, for their own advantage. Surely then we are all Asses, if we are not Lions.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
